@@ -1,0 +1,5 @@
+WTMod License / Upstream Notice
+
+WTMod is distributed with project-specific source files and Cython packaging code by Dr Taher Abunama. Some model equations and default parameters are adapted from upstream open-source or uploaded reference models.
+
+See THIRD_PARTY_NOTICES.md for attribution details.
